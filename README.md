@@ -1,5 +1,5 @@
 # N-Body Simulation using NASA Horizons Data
-Jupyter Notebook using a differential equation integration solver based on a Leapfrog Algorithm and vectorized ODEs to simulate and plot the orbits from different objects in the solar system using initial position and velocity vectors provided by the JPL Horizons System by NASA .
+Jupyter Notebook using a differential equation integration solver based on a Leapfrog Algorithm and vectorized ODEs to simulate and plot the orbits from different objects in the solar system with initial position and velocity vectors provided by the JPL Horizons System by NASA .
 # Abstract
 The goal of this Jupyter Notebook is to make an interactive ipython notebook available,
 with which one can simulate and produce 3D plots for the orbits of any object within the solar
